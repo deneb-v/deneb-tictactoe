@@ -1,0 +1,22 @@
+html, body {
+margin: 0;
+padding: 0;
+display:flex;
+align-items: center;
+justify-content: center;
+background-color:skyblue;
+}
+
+.container{
+    height: 100vh;
+}
+
+.btn{
+    padding:5px;
+    margin:5px;
+    font-size: 1.5rem;
+}
+
+canvas {
+display: block;
+}
